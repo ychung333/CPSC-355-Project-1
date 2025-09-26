@@ -1,4 +1,10 @@
-
+# *************************************************
+# README.TXT                                       *
+# Algorithm 1                                      *
+# Sheikh Sabah Ali                                 *
+# Rene Acosta                                      *
+# Yu-chen Chung                                    *
+# *************************************************
 
 Group Members: Yu-Chen Chung, Rene Acosta, Sheikh Sabah Ali.
 
