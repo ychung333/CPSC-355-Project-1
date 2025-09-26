@@ -1,0 +1,38 @@
+# *************************************************
+# Pseudocode                                       *
+# Algorithm 1                                      *
+# Sheikh Sabah Ali                                 *
+# Rene Acosta                                      *
+# Yu-chen Chung                                    *
+# *************************************************
+
+
+Pseudocode: 
+ALTERNATING_DISKS_BIDIRECTIONAL(A[0..2n-1]):  # A holds 'L' or 'D'
+    swaps ← 0
+    didSwap ← true
+
+    while didSwap = true do
+        didSwap ← false
+
+        # Left-to-right pass
+        for i from 0 to 2n-2 do
+            if A[i] = 'L' and A[i+1] = 'D' then
+                SWAP(A[i], A[i+1])
+                swaps ← swaps + 1
+                didSwap ← true
+            end if
+        end for
+
+        # Right-to-left pass
+        for i from 2n-2 down to 0 do
+            if A[i] = 'L' and A[i+1] = 'D' then
+                SWAP(A[i], A[i+1])
+                swaps ← swaps + 1
+                didSwap ← true
+            end if
+        end for
+    end while
+
+    return (A, swaps)
+
