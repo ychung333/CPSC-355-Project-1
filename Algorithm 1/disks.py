@@ -17,7 +17,7 @@ def alternating_disks_bidirectional(A):
     while didSwap:
         didSwap = False    # reset flag at the start of each round
 
-#    Left to right pass
+    # Left to right pass
         for i in range(len(A) - 1):
             if A[i] == 'L' and A[i+1] == 'D':     # if a light disk is left of a dark disk
                 A[i], A[i+1] = A[i+1], A[i]       # swap them
