@@ -1,8 +1,8 @@
 """
 CPSC 335 — Project 1
 Algorithm 2: Matching Group Schedules
-Author(s): Yu-Chen Chung
-Email(s):  ychung30@csu.fullerton.edu
+Authors: Yu-Chen Chung, Rene Acosta, Sheikh Sabah Ali
+Emails:  ychung30@csu.fullerton.edu,  ,sheiksabah@csu.fullerton.edu
 
 Implements the provided pseudocode structure for Algorithm 2.
 Complexity: O(k log k), where k is the total number of intervals
