@@ -19,7 +19,8 @@ How to run Algorithm 1:
      - Final arrangement of disks
      - Total number of swaps performed
 
-  Sample output:
+  Sample output: Final arrangement: ['D', 'D', 'D', 'D', 'L', 'L', 'L', 'L']
+Total swaps: 10
 
 How to run Algorithm 2: Matching Group Schedules
 
