@@ -1,10 +1,13 @@
 # *************************************************
-# README.TXT                                       *
-# Algorithm 1                                      *
-# Sheikh Sabah Ali                                 *
-# Rene Acosta                                      *
-# Yu-chen Chung                                    *
+# Sheikh Sabah Ali (sheiksabah@csu.fullerton.edu) *
+# Rene Acosta                                     *
+# Yu-chen Chung (ychung30@csu.fullerton.edu)      *
+# CPSC 335                                        *
+# Project 1 – Alternating Disk Problem &		        *
+# Matching Group Schedules			                     *
+# Fall 2025 Submission                          		*
 # *************************************************
+
 
 Group Members: Yu-Chen Chung, Rene Acosta, Sheikh Sabah Ali.
 
