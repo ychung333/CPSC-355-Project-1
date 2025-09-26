@@ -4,7 +4,7 @@
 # Yu-chen Chung (ychung30@csu.fullerton.edu)      *
 # CPSC 335                                        *
 # Project 1 – Alternating Disk Problem &		        *
-# Matching Group Schedules			                     *
+# Matching Group Schedules			                  *
 # Fall 2025 Submission                          		*
 # *************************************************
 
