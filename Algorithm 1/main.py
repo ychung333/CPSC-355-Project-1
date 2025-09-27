@@ -4,9 +4,6 @@ Algorithm 1: ALTERNATING_DISKS_BIDIRECTIONAL
 Authors: Yu-Chen Chung, Rene Acosta, Sheikh Sabah Ali
 Emails:  ychung30@csu.fullerton.edu, reneacosta98@csu.fullerton.edu,sheiksabah@csu.fullerton.edu
 
-Implements the provided pseudocode structure for Algorithm 2.
-Complexity: O(k log k), where k is the total number of intervals
-(all busy + outside-active sentinels). Sorting/merging dominates.
 """
 
 import disks
