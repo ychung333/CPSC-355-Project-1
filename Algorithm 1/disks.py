@@ -1,10 +1,9 @@
-# *******************************************************************************
-# disks.py                                                                       *
-# Functions for Alternating Disks Problem                                        *
-# Sheikh Sabah Ali                                                               *
-# Yu-Chen Chung                                                                  *
-# Rene Acosta                                                                    *
-# *******************************************************************************
+"""
+CPSC 335 — Project 1
+Algorithm 1: ALTERNATING_DISKS_BIDIRECTIONAL
+Authors: Yu-Chen Chung, Rene Acosta, Sheikh Sabah Ali
+Emails:  ychung30@csu.fullerton.edu, reneacosta98@csu.fullerton.edu,sheiksabah@csu.fullerton.edu
+"""
 
 
 def alternating_disks_bidirectional(A):
