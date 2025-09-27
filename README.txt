@@ -24,7 +24,7 @@ How to run Algorithm 2: Matching Group Schedules
 
   1. Open a terminal or command prompt.
   2. Navigate to the folder containing algo2.py.
-  3. Run the program with 'python3 algo2.py'
+  3. Run the program with 'python algo2.py' or 'python3 algo2.py'
   4. Follow the prompts or edit the sample input inside the file to test different schedules.
 
   Sample output: [['10:30', '12:00'], ['15:00', '16:00'], ['18:00', '18:30']]
