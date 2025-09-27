@@ -1,6 +1,6 @@
 # *************************************************
 # Sheikh Sabah Ali (sheiksabah@csu.fullerton.edu) *
-# Rene Acosta                                     *
+# Rene Acosta   (reneacosta98@csu.fullerton.edu)  *
 # Yu-chen Chung (ychung30@csu.fullerton.edu)      *
 # CPSC 335                                        *
 # Project 1 – Alternating Disk Problem &          *
